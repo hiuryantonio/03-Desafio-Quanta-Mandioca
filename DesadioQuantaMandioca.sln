@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesadioQuantaMandioca", "DesadioQuantaMandioca\DesadioQuantaMandioca.csproj", "{CA92578C-CED0-4205-A672-974CAF44378F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA92578C-CED0-4205-A672-974CAF44378F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA92578C-CED0-4205-A672-974CAF44378F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA92578C-CED0-4205-A672-974CAF44378F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA92578C-CED0-4205-A672-974CAF44378F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA15DA82-AD4E-4ED9-8F91-5B5611541225}
+	EndGlobalSection
+EndGlobal
